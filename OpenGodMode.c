@@ -9,7 +9,7 @@ int main()
     system("cls");
     system("title OpenGodMode");
     printf("Please enter a number\n");
-    printf("\nCatrgories\n");
+    printf("\nCategories\n");
     printf("1. Open God Mode\n");
     printf("2. Open Control Panel\n");
     printf("3. Open Control Panel (Large icons)\n");
